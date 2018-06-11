@@ -1,7 +1,7 @@
 # 基础信息
 项目网页：[15-OCR on video](http://studentclub.msra.cn/project/institute/10)
 
-项目导师：Chao Chen, Xiaojing Yan
+项目导师：Alan Ip, Chao Chen
 
 项目目标：识别电视新闻、综艺、电视剧集等具体场景中的字幕文本
 
@@ -101,3 +101,4 @@ $$
 - 效果上，除非是由于字幕出现不足 20 帧因而被略过的缘故，一般都能找到所有字幕。但是也会掺杂不是字幕的图片，不过一般这些“杂质”不能识别，因此对识别的结果不会产生影响。
 
 识别结果见附件 output.txt.
+
