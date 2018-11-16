@@ -60,7 +60,7 @@ Windows 环境下在 powershell 下运行
 我们采用传统的图像处理方法，能够很好的识别并定位出字幕的区域，同样也能判断是否存在字幕。
 我们的算法可以用下面伪代码描述 (为了清晰起见，调用函数的名称与MATLAB 函数或者 OpenCV 函数一致)： 
 
-![](http://ouluvpd0z.bkt.clouddn.com/ocr_pseudocode1.png)
+![](https://github.com/Dinghow/15-TongJi-Team_LearnMachineLearning/raw/master/img/3.png)
 
 算法的第 3-6 行，是本算法的核心内容。经过第 3 行的灰度化后，第4 行的 imadjust 图像增强是为了将图片的灰度映射到更紧密的一个范围中去，方便下面的处理，实践证明这一步对结果是有举足轻重的作用的。第 5行的 imopen 形态学开操作，是该算法的精髓。这一步可以将字幕区域模糊化，甚至可以做到直接融于背景色中。所以通过最后一步，也就是第六行的差分操作，就可以轻松得到清晰的字幕。其实大多数视频帧做到这一步，效果已经非常好了。
 
