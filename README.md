@@ -89,11 +89,11 @@ $$
 
 原图
 
-![](http://ouluvpd0z.bkt.clouddn.com/img_80420.jpg)
+![](https://github.com/Dinghow/15-TongJi-Team_LearnMachineLearning/raw/master/img/1.jpeg)
 
 字幕提取图：
 
-![](http://ouluvpd0z.bkt.clouddn.com/604.png)
+![](https://github.com/Dinghow/15-TongJi-Team_LearnMachineLearning/raw/master/img/2.png)
 
 更多图片见附件
 
