@@ -13,6 +13,8 @@
 
 原仓库地址：[video-subtitle-recognition](https://github.com/zhongyuchen/video-subtitle-recognition) from zhongyuchen
 
+最终获奖：[Outstanding Winner](http://studentclub.msra.cn/news2/9)
+
 # 项目文档
 
 Documented by zhongyuchen
